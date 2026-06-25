@@ -16,7 +16,7 @@ I'm passionate about building software and hardware projects that solve real-wor
 
 - 📱 Developing mobile apps with React Native & Expo
 - 🤖 Building robotics projects using Raspberry Pi
-- 🚁 Learning drone development with ArduPilot
+- 🚁 drone development with ArduPilot
 - 🐍 Expanding my Python and automation skills
 - 🌱 Exploring cloud technologies and modern software development
 
