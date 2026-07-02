@@ -2,121 +2,119 @@
 
 # 👋 Hi, I'm Alhassan Tahiru
 
-### Mobile App Developer • Raspberry Pi Enthusiast • Drone Builder
+### Software Engineer • Embedded Systems • Distributed Systems • Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=React+Native+Developer;Building+Mobile+Apps+with+Expo;Raspberry+Pi+Projects;Drone+Development+with+ArduPilot;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Embedded+Software+Engineer;Distributed+Systems;Automation+Engineer;Python+%7C+C%2B%2B+%7C+Linux;Building+Reliable+Software+for+Autonomous+Systems" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm passionate about building software and hardware projects that solve real-world problems.
+I'm a Software Engineer focused on building reliable software for embedded systems, automation platforms, and distributed applications.
 
-- 📱 Developing mobile apps with React Native & Expo
-- 🤖 Building robotics projects using Raspberry Pi
-- 🚁 drone development with ArduPilot
-- 🐍 Expanding my Python and automation skills
-- 🌱 Exploring cloud technologies and modern software development
+Currently I'm working on production software supporting autonomous aircraft while improving engineering automation, diagnostics, and software quality.
+
+My interests include
+
+- Embedded Linux
+- Distributed Systems
+- Software Architecture
+- Robotics
+- Automation
+- Cloud Infrastructure
+- High Performance Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Mobile Development
+---
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+### Embedded Systems
 
-### Hardware & Robotics
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Embedded Linux](https://img.shields.io/badge/Embedded-Linux-green?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART-blue?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-orange?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-red?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-Bus-success?style=for-the-badge)
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-00599C?style=for-the-badge)
+---
 
-### Tools
+### DevOps & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
+
+---
+
+## 💼 Professional Experience
+
+**Embedded Software Engineer**
+📍 Zipline
+
+- Production software for autonomous aircraft
+- Python automation
+- Embedded Linux
+- Diagnostics
+- Firmware debugging
+- Release engineering
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atahiru&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atahiru&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Atahiru&theme=tokyonight"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atahiru&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Mobile Applications
-- React Native Apps
-- Expo Projects
-
-### 🤖 Raspberry Pi Projects
-- Automation
-- Robotics
-- Sensors & Control Systems
-
-### 🚁 Drone Projects
-- ArduPilot Flight Controllers
-- Autonomous Flight Experiments
-- UAV Development
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atahiru&theme=tokyo-night"/>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Atahiru">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
 
-<div align="center">
+## 🏆 Engineering Interests
 
-### ⚡ "Keep Learning. Keep Building."
+- Embedded Software
+- Distributed Systems
+- Robotics
+- Linux
+- Python Automation
+- Cloud Infrastructure
+- Autonomous Systems
+- System Diagnostics
+- Software Architecture
 
-![](https://komarev.com/ghpvc/?username=Atahiru&color=blue)
+---
 
-</div>
+## 📫 Connect
+
+- GitHub: https://github.com/Atahiru
+- Email: atahiru319@gmail.com
+
+---
+
+> *"Build reliable software that solves real-world problems."*
