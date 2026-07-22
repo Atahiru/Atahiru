@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Alhassan Tahiru
+#  Hi, I'm Alhassan Tahiru
 
 ### Software Engineer • Embedded Systems • Distributed Systems • Automation
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Software Engineer focused on building reliable software for embedded systems, automation platforms, and distributed applications.
 
