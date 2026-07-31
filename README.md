@@ -2,7 +2,7 @@
 
 #  Hi, I'm Alhassan Tahiru
 
-### Software Engineer • Automation Engineer && Developer 
+###  Engineer || Software Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Embedded+Software+Engineer;Distributed+Systems;Automation+Engineer;Python+%7C+C%2B%2B+%7C+Linux;Building+Reliable+Software+for+Autonomous+Systems" />
 
